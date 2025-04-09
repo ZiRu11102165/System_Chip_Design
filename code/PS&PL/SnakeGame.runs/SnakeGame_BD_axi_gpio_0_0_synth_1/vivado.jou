@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:22 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Sat Jun 25 21:44:07 2022
+# Process ID: 8976
+# Current directory: C:/SOC_Final_Project_Snake_Game/SnakeGame/SnakeGame.runs/SnakeGame_BD_axi_gpio_0_0_synth_1
+# Command line: vivado.exe -log SnakeGame_BD_axi_gpio_0_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source SnakeGame_BD_axi_gpio_0_0.tcl
+# Log file: C:/SOC_Final_Project_Snake_Game/SnakeGame/SnakeGame.runs/SnakeGame_BD_axi_gpio_0_0_synth_1/SnakeGame_BD_axi_gpio_0_0.vds
+# Journal file: C:/SOC_Final_Project_Snake_Game/SnakeGame/SnakeGame.runs/SnakeGame_BD_axi_gpio_0_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source SnakeGame_BD_axi_gpio_0_0.tcl -notrace
